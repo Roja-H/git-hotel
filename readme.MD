@@ -3,7 +3,7 @@
 # new-hotel-branch
 dosa batter
 light oil
-trying to ake crispy
+trying to make crispy
 
 
 
